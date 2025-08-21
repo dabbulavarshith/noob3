@@ -1,0 +1,5 @@
+[
+  { "id": "1", "symbol": "RELIANCE", "name": "Reliance Industries", "price": 2950.35, "change": 12.5, "changePercent": 0.43, "volume": 4512300, "marketCap": 199999999999, "sector": "Energy", "lastUpdated": "2025-08-21T09:30:00Z" },
+  { "id": "2", "symbol": "TCS", "name": "Tata Consultancy", "price": 4265.10, "change": -22.1, "changePercent": -0.52, "volume": 1892300, "marketCap": 180000000000, "sector": "IT", "lastUpdated": "2025-08-21T09:30:00Z" },
+  { "id": "3", "symbol": "HDFCBANK", "name": "HDFC Bank", "price": 1642.80, "change": 8.9, "changePercent": 0.54, "volume": 5231000, "marketCap": 120000000000, "sector": "Banking", "lastUpdated": "2025-08-21T09:30:00Z" }
+]
